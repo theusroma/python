@@ -1,6 +1,6 @@
 reais = int(input("Digite um numero: "))
 cem = 100;
-cinquenta = 50;
+cinquenta = 50; 
 dez = 10;
 um = 1;
 
@@ -25,3 +25,4 @@ print("Notas de 10: ", contadordez)
 print("Notas de 1: ", contadorum)
 
     
+
