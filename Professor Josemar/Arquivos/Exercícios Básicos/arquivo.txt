@@ -1,0 +1,9 @@
+MANIPULAÇÃO DE ARQUIVOS
+
+MODO     SIGNIFICADO
+"r"      leitura(erro se nao existir)
+"w"      escrita(apaga conteudo anterior)
+"a"      escrita no final
+"x"      cria novo arquivo(erro se ja existir)
+"b"      modo binario(ex: imagens)
+"t"      modo texto(padrao)
