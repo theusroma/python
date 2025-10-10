@@ -1,0 +1,4 @@
+NOME,TELEFONE,EMAIL,IDADE
+Matheus,4199016248,eu.matheus0112@gmail.com,20
+Rebecca,4165584563,beccabeccari@gmail.com,19
+bender,54545455452,bender@gmail.com.19
