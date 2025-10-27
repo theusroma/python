@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
 
 """
-Script completo para pipeline de análise de sequências de proteínas SCOP.
-Etapas:
-1. Download dos dados FASTA.
-2. Extração de atributos (features) "kmer 2X2" (assumindo skip=2).
-3. Redução de dimensionalidade com PCA (300 componentes).
-4. Teste de algoritmos de clustering (KMeans, etc.).
-5. Avaliação com métricas internas e externas (F1-Score).
-6. Análise de correlação e sugestão de melhor modelo.
+1 Download dos dados FASTA.
+2 Extração de atributos (features) "kmer 2X2" (assumindo skip=2).
+3 Redução de dimensionalidade com PCA (300 componentes).
+4 Teste de algoritmos de clustering (KMeans, etc.).
+5 Avaliação com métricas internas e externas (F1-Score).
+6 Análise de correlação e sugestão de melhor modelo.
 """
 
 import requests
